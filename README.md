@@ -1,10 +1,9 @@
 # EdisonX-sudo  
 
----
 <img align="right" src="imgs/12040.png" />
 
 健身先健脑,擒贼先擒王🔨
-
+  
 ## 环境  
 
 ---
@@ -16,7 +15,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-235379?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=ApacheKafka&logoColor=white)
-
+  
 ## 技能  
 
 ---
