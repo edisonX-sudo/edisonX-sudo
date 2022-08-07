@@ -5,7 +5,7 @@
 
 健身先健脑,擒贼先擒王🔨
 
-##环境  
+## 环境  
 
 ---
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
@@ -17,7 +17,7 @@
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=ApacheKafka&logoColor=white)
 
-##技能  
+## 技能  
 
 ---
 |  类别  | 技能                                                                                                                                                                                                                                                                                                                                                                                                                    |
