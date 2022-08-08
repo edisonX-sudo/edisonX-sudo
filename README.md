@@ -1,6 +1,6 @@
 # EdisonX-sudo
 
-<img align="right" src="imgs/12040.png" />
+<img align="right" src="imgs/12040_qd.png" />
 
 健身先健脑🧠擒贼先擒王🔨
 
