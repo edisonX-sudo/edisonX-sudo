@@ -24,3 +24,4 @@
 |    **程序设计**    | ![MicroService](https://img.shields.io/badge/-MicroService-1572B6?logo=AmazonECS&style=flat-square) ![DDD](https://img.shields.io/badge/-DomainDrivenDesign-green?logo=DPD&style=flat-square) ![CQRS](https://img.shields.io/badge/-CQRS-F05537?logo=Docs.rs&style=flat-square) ![EventSourcing](https://img.shields.io/badge/-EventSourcing-000000?logo=Eventbrite&style=flat-square)                                                |
 |      人工智能      | ![FNN](https://img.shields.io/badge/Python-Pytorch-3776AB?logo=Python&style=flat-square)                                                                                                                                                                                                                                                                                                                                              |
 
+
