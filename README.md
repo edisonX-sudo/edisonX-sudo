@@ -2,7 +2,8 @@
 
 <img align="right" src="imgs/12040_qd.png" />
 
-健身先健脑🧠擒贼先擒王🔨
+健身先健脑🧠擒贼先擒王🔨![hello](https://visitor-badge.glitch.me/badge?page_id=edisonX-sudo.README.md)
+
 
 ## 环境
 
