@@ -28,5 +28,5 @@
 
 ![hello](https://visitor-badge.glitch.me/badge?page_id=edisonX-sudo.README.md)
 
-![hello](https://shields-io-visitor-counter.herokuapp.com/badge?page=edisonX-sudo.edisonX-sudo&label=Hello&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge)
+![hello](https://shields-io-visitor-counter.herokuapp.com/badge?page=edisonX-sudo.edisonX-sudo&label=Hello&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8)
 
