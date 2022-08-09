@@ -2,7 +2,7 @@
 
 <img align="right" src="imgs/12040_qd.png" />
 
-健身先健脑🧠擒贼先擒王🔨![hello](https://visitor-badge.glitch.me/badge?page_id=edisonX-sudo.README.md)
+健身先健脑🧠擒贼先擒王🔨
 
 
 ## 环境
@@ -24,5 +24,5 @@
 |      *前端*      | ![HTML5](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)  ![React](https://img.shields.io/badge/-React.js-E34F26?style=flat-square&logo=React&logoColor=white)                 |
 |    **程序设计**    | ![MicroService](https://img.shields.io/badge/-MicroService-1572B6?logo=AmazonECS&style=flat-square) ![DDD](https://img.shields.io/badge/-DomainDrivenDesign-green?logo=DPD&style=flat-square) ![CQRS](https://img.shields.io/badge/-CQRS-F05537?logo=Docs.rs&style=flat-square) ![EventSourcing](https://img.shields.io/badge/-EventSourcing-000000?logo=Eventbrite&style=flat-square)                                                |
 |      人工智能      | ![FNN](https://img.shields.io/badge/Python-Pytorch-3776AB?logo=Python&style=flat-square)                                                                                                                                                                                                                                                                                                                                              |
-
+![hello](https://visitor-badge.glitch.me/badge?page_id=edisonX-sudo.README.md)
 
